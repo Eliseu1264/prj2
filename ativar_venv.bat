@@ -1,0 +1,1 @@
+.\venv_prj2\scripts\activate
